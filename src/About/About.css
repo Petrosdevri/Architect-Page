@@ -1,0 +1,12 @@
+.card {
+    border: none !important;
+}
+
+.card > img {
+    filter: grayscale(75%);
+    -webkit-filter: grayscale(75%);
+}
+
+.card > h3, .card > p {
+    padding: 0.15em 0;
+}

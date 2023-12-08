@@ -1,0 +1,14 @@
+/* General Style */
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    overflow-x: hidden;
+}
+
+.main {
+    max-width: 1564px;
+}
+
+.spacing {
+    letter-spacing: 4px;
+}

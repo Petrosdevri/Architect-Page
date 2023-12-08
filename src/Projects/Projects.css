@@ -1,0 +1,22 @@
+.heading {
+    padding: 2em 0;
+}
+
+.house-title {
+    background: #000000;
+    color: #FFFFFF;
+    padding: 0.5em 1em;
+    z-index: 2;
+}
+
+.hstack {
+    padding: 0.5em 0;
+}
+
+img {
+    width: 100%;
+}
+
+.project {
+    position: relative;
+}
